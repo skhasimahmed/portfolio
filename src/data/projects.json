@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CC Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Keeps track of user work hours in a project.",
+    "skills": ["PHP", "Laravel", "JavaScript", "jQuery"],
+    "demo": "https://portal.codeconspirators.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Taly Subscriptions",
+    "imageSrc": "projects/project.png",
+    "description": "An online marketplace for all lifestyle subscriptions.",
+    "skills": ["PHP", "Laravel", "JavaScript", "React"],
+    "demo": "https://talysubscriptions.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Perpetua Anywhere",
+    "imageSrc": "projects/project.png",
+    "description": "Fitness app for home workouts and programs.",
+    "skills": ["PHP", "Laravel", "JavaScript", "jQuery"],
+    "demo": "http://perpetuaanywhere.com/",
+    "source": "https://www.github.com"
+  }
+]

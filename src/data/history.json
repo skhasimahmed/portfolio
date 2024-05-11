@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organization": "Kadel Labs Private Limited",
+    "startDate": "Sept, 2023",
+    "endDate": "April, 2024",
+    "experiences": ["Oversaw backend development using PHP, Laravel", "Integrated requested elements to streamline business operations", "Developed large and complex module components of larger system design"],
+    "imageSrc": "history/kadellabs.png"
+  },
+  {
+    "role": "Web Application Developer",
+    "organization": "Infotechsolz",
+    "startDate": "March, 2019",
+    "endDate": "June, 2023",
+    "experiences": ["Worked with cross-functional teams and project managers to meet milestones", "Designed and implemented APIs and services that provide a strong and stable platform", "Integrated various 3rd party APIs and payment gateways such as Stripe and Paypal"],
+    "imageSrc": "history/infotechsolz.png"
+  }
+]

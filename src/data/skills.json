@@ -1,0 +1,38 @@
+[
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "CodeIgniter",
+    "imageSrc": "skills/codeigniter.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  }
+]
